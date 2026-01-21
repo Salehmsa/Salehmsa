@@ -1,18 +1,14 @@
+
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
-<br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/>
+  <br>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
-<ls & vibing to:</strong></summary>
-
-https://open.spotify.com/
-
-</details>
-
-https://komarev.com/ghpvc/?username=SalehMahbub&style=flat&color=orange&label=PROFILE+VIEWS
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SalehMahbub&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&title=HITS"/>
-
+  <details>
+    <summary><strong>🎧 Busy building ML models & vibing to:</strong></summary>
+   /komarev.com/ghpvc/?username=SalehMahbub&style=flat&color=orange&label=PROFILE+VIEWS
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SalehMahbub&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&title=HITS"/>
 </div>
 
 <hr/>
