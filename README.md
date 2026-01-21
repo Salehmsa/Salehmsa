@@ -61,10 +61,15 @@ class About extends Me {
 }
 ```
 
-<h3 align="left">Where to find me</h3>
+
+<h3 align="left">
+  <img src="https://www.kindpng.com/picc/m/463-4638771_icon-find-me-png-transparent-png.png" 
+       width="28" style="vertical-align: middle; margin-right: 8px;" />
+  Where to find me
+</h3>
 
 <p align="left">
-  <a href="https://github.com/SalehMahbub" target="_blank">
+  <a href="https://github.com/Salehmsa" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
