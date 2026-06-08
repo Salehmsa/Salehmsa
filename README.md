@@ -138,8 +138,13 @@ to every project.
 
 ## 📊 GitHub Stats
 
-![Saleh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salehmsa&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salehmsa&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Salehmsa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salehmsa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
+</p>
 
 ---
 
