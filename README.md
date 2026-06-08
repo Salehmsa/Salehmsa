@@ -25,14 +25,18 @@
 ## 👋 Hi, I'm Saleh Mahbub
 
 > 🐙 **Data Scientist | AI Engineer | IBM-Certified**
+> 
 > Building ML & Deep Learning systems · RAG & LLM apps · Production-ready with FastAPI & Docker
 
-I build **machine learning models**, create **AI projects**, and design **data dashboards** using:
+🔹 Recent: Built an end-to-end analytics pipeline on 214K+ records 
+   — turning raw data into executive KPIs and decision-ready dashboards.
 
-- **Python** (Pandas, Scikit-Learn, NumPy, Matplotlib)
-- **SQL** (Data extraction, cleaning, transformations)
-- **Power BI** (KPIs, DAX, data modeling, end-to-end dashboards)
-- **Machine Learning workflows** and real-world automation projects
+I build **machine learning models**, create **AI applications**, and design **executive dashboards** using:
+
+- **Python & ML** — Pandas, Scikit-Learn, TensorFlow, PyTorch
+- **AI Engineering** — RAG systems, LLM apps, LangChain, prompt design
+- **MLOps & Deployment** — FastAPI, Docker, model serving, CI/CD
+- **SQL & Power BI** — data modeling, DAX, KPIs, end-to-end dashboards
 
 I focus on making **practical, impactful solutions** — not just theory.
 
