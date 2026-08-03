@@ -24,7 +24,7 @@
 
 ## 👋 Hi, I'm Saleh Mahbub
 
-> 🐙 **Data Scientist | AI Engineer | IBM-Certified**
+> 🐙 **Junior Data Analyst | Basic Data Scientist | AI Engineer | IBM-Certified**
 > 
 > Building ML & Deep Learning systems · RAG & LLM apps · Production-ready with FastAPI & Docker
 
