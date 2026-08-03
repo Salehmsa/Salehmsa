@@ -1,21 +1,8 @@
 
 <div align="center" width="50">
-
-<img src="https://tse2.mm.bing.net/th/id/OIP.Ml5GnLqFaSRBF328ueTtSgAAAA?rs=1&pid=ImgDetMain&o=7&rm=3" width="60%"/>  
-
-
-<details>
-<p><strong><summary> 🎧 Busy building ML models & vibing to: </summary></strong></p>
-
-[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com)
-
-</details>
-
+   
 ![Views](https://komarev.com/ghpvc/?username=SalehMahbub&style=flat&color=orange&label=PROFILE+VIEWS)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/SalehMahbub&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&title=HITS)
-
 </div>
-
 <hr/>
 
 <!-- ============================================= -->
