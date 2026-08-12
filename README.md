@@ -21,9 +21,8 @@
 I build **machine learning models**, create **AI applications**, and design **executive dashboards** using:
 
 - **Python & ML** — Pandas, Scikit-Learn, TensorFlow, PyTorch
-- **Basic AI Engineering** — RAG systems, LLM apps, LangChain, prompt design
-- **MLOps & Deployment** — FastAPI, Docker, model serving, CI/CD
 - **SQL & Power BI** — data modeling, DAX, KPIs, end-to-end dashboards
+- **MLOps & Deployment** — FastAPI, Docker, model serving, CI/CD
 
 I focus on making **practical, impactful solutions** — not just theory.
 
@@ -44,16 +43,6 @@ I focus on making **practical, impactful solutions** — not just theory.
 **Machine Learning**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**Deep Learning**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-
-**AI Engineering**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 **MLOps & Deployment**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -110,11 +99,6 @@ Taking models from notebook to production. I build reproducible workflows
 with **Docker**, expose models through **FastAPI** endpoints, and apply
 **CI/CD** practices to ship scalable, maintainable ML systems — not
 experiments that die in a `.ipynb`.
-
-## 🤖 AI Engineering
-Building practical AI applications powered by **LLMs** and **RAG systems**.
-I combine retrieval, prompt engineering, and orchestration (**LangChain**,
-**Hugging Face**) to deliver AI products that answer real business questions.
 
 ## 🔧 Git & Version Control
 Clean, professional workflows: feature branches, meaningful commits, and
