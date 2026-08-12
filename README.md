@@ -21,7 +21,7 @@
 I build **machine learning models**, create **AI applications**, and design **executive dashboards** using:
 
 - **Python & ML** — Pandas, Scikit-Learn, TensorFlow, PyTorch
-- **AI Engineering** — RAG systems, LLM apps, LangChain, prompt design
+- **Basic AI Engineering** — RAG systems, LLM apps, LangChain, prompt design
 - **MLOps & Deployment** — FastAPI, Docker, model serving, CI/CD
 - **SQL & Power BI** — data modeling, DAX, KPIs, end-to-end dashboards
 
