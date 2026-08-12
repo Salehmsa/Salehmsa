@@ -1,121 +1,74 @@
+# 👋 Hi, I'm Saleh Mahbub
 
-<div align="center" width="50">
-   
-![Views](https://komarev.com/ghpvc/?username=SalehMahbub&style=flat&color=orange&label=PROFILE+VIEWS)
-</div>
-<hr/>
+### Data Analyst | Power BI Developer | SQL & Python Practitioner
 
-<!-- ============================================= -->
-<!--               HEADER / INTRO                  -->
-<!-- ============================================= -->
+I am passionate about transforming raw data into actionable business insights through data analysis, visualization, and automation.
 
-## 👋 Hi, I'm Saleh Mahbub
+My current focus areas include:
 
-> 🐙 **Junior Data Analyst | Basic Data Scientist | AI & ML Enthusiast | Power BI Developer | IBM-Certified**
-> 
-> Building ML systems · Production-ready with FastAPI & Docker
+🔹 **Data Analysis & Business Intelligence**
+- Building interactive dashboards using Power BI
+- Data modeling and DAX development
+- KPI tracking and business performance reporting
+- Data storytelling and decision support
 
-🔹 Recent: Built an end-to-end analytics pipeline on 214K+ records 
-   — turning raw data into executive KPIs and decision-ready dashboards.
+🔹 **SQL for Analytics**
+- Data extraction and transformation
+- Query optimization
+- Data cleaning and preparation
+- Analytical reporting
 
-I build **machine learning models**, create **AI applications**, and design **executive dashboards** using:
+🔹 **Python for Data Analysis**
+- Data manipulation with Pandas
+- Data visualization
+- Exploratory Data Analysis (EDA)
+- Automating repetitive analytical tasks
 
-- **Python & ML** — Pandas, Scikit-Learn, TensorFlow, PyTorch
-- **SQL & Power BI** — data modeling, DAX, KPIs, end-to-end dashboards
-- **MLOps & Deployment** — FastAPI, Docker, model serving, CI/CD
+### 🚀 Learning & Expanding Into
 
-I focus on making **practical, impactful solutions** — not just theory.
+- Machine Learning Fundamentals
+- Predictive Analytics
+- MLOps and Model Deployment
+- Generative AI Applications
+- Prompt Engineering
+- AI-Powered Data Solutions
 
----
+### 🎯 My Goal
 
-<!-- ============================================= -->
-<!--             TOOLS & TECHNOLOGIES              -->
-<!-- ============================================= -->
-
-## 🚀 Tools & Technologies
-
-**Languages & Core**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Machine Learning**
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-**MLOps & Deployment**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-
-**BI & Visualization**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat-square&logo=microsoft&logoColor=white)
-
-**Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+To bridge the gap between Data Analytics and Artificial Intelligence by building practical solutions that combine business intelligence, machine learning, and generative AI technologies to solve real-world business challenges.
 
 ---
 
-<!-- ============================================= -->
-<!--               ABOUT (CODE BLOCK)              -->
-<!-- ============================================= -->
+## 🛠️ Tech Stack
 
-```javascript
-// tools_I_use organized for Data Science & AI
+### Data Analytics
+- Power BI
+- DAX
+- Power Query
+- SQL Server
+- Excel
 
-class About extends Me {
-  const myStack = {
-    "CoreSkills"     : { "Python", "SQL", "Power BI", "Scikit-Learn", "Pandas" },
-    "MachineLearning": { "Model Training", "Evaluation", "Feature Engineering" },
-    "MLOps"          : { "Docker", "FastAPI", "CI/CD", "Model Deployment" },
-    "Visualization"  : { "Power BI", "Matplotlib", "Seaborn" },
-    "Platforms"      : { "Windows", "Linux" },
-    "VersionControl" : { "Git", "GitHub" }
-  };
-}
-```
+### Programming
+- Python
+- Pandas
+- NumPy
+- Matplotlib
 
----
+### Machine Learning
+- Scikit-Learn
+- Model Evaluation
+- Feature Engineering
 
-<!-- ============================================= -->
-<!--              SPECIALIZATION AREAS             -->
-<!-- ============================================= -->
+### AI & Automation
+- Generative AI
+- Prompt Engineering
+- MLOps Fundamentals
 
-
-## ⚙️ MLOps
-Taking models from notebook to production. I build reproducible workflows
-with **Docker**, expose models through **FastAPI** endpoints, and apply
-**CI/CD** practices to ship scalable, maintainable ML systems — not
-experiments that die in a `.ipynb`.
-
-## 🔧 Git & Version Control
-Clean, professional workflows: feature branches, meaningful commits, and
-collaborative development on **GitHub** — engineering discipline applied
-to every project.
-
----
-
-<!-- ============================================= -->
-<!--                  GITHUB STATS                 -->
-<!-- ============================================= -->
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Salehmsa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&rank_icon=github" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Salehmsa&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- VS Code
+- Linux
 <!-- ============================================= -->
 <!--                WHERE TO FIND ME               -->
 <!-- ============================================= -->
