@@ -13,7 +13,7 @@
 
 > 🐙 **Junior Data Analyst | Basic Data Scientist | AI & ML Enthusiast | Power BI Developer | IBM-Certified**
 > 
-> Building ML & Deep Learning systems · RAG & LLM apps · Production-ready with FastAPI & Docker
+> Building ML systems · Production-ready with FastAPI & Docker
 
 🔹 Recent: Built an end-to-end analytics pipeline on 214K+ records 
    — turning raw data into executive KPIs and decision-ready dashboards.
@@ -72,8 +72,6 @@ class About extends Me {
   const myStack = {
     "CoreSkills"     : { "Python", "SQL", "Power BI", "Scikit-Learn", "Pandas" },
     "MachineLearning": { "Model Training", "Evaluation", "Feature Engineering" },
-    "DeepLearning"   : { "TensorFlow", "Keras", "PyTorch", "Neural Networks" },
-    "AIEngineering"  : { "RAG Systems", "LangChain", "LLM Apps", "Prompt Design" },
     "MLOps"          : { "Docker", "FastAPI", "CI/CD", "Model Deployment" },
     "Visualization"  : { "Power BI", "Matplotlib", "Seaborn" },
     "Platforms"      : { "Windows", "Linux" },
@@ -88,11 +86,6 @@ class About extends Me {
 <!--              SPECIALIZATION AREAS             -->
 <!-- ============================================= -->
 
-## 🧠 Deep Learning
-Designing and training neural networks for real-world problems — from
-**CNNs** for image tasks to **RNNs/LSTMs** for sequential data. I focus on
-the full cycle: data pipelines, architecture design, training, evaluation,
-and optimization using **TensorFlow**, **Keras**, and **PyTorch**.
 
 ## ⚙️ MLOps
 Taking models from notebook to production. I build reproducible workflows
